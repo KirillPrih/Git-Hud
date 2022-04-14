@@ -1,0 +1,23 @@
+.qw
+{
+background-color: blanchedalmond;
+font-size: 140%;
+}
+.rt
+{
+background-color: rgb(209, 224, 209);
+}
+.we
+{
+background-color: rgb(211, 202, 202);
+}
+.re
+{
+background-color: burlywood; display: flex ;justify-content: center;
+}
+@media(max-width:768px){
+   .qw{
+   font-size: 70%;
+}
+
+}
